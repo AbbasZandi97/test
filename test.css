@@ -1,5 +1,5 @@
-body{
-    background-color: yellow;
+body {
+    background-color: #a3f57a;
 }
 
 li{
@@ -13,7 +13,7 @@ ul{
 .div1 {
     width: 300px;
     height: 200px;
-    background-color: rgb(219, 154, 149);
+    background-color: rgb(210, 34, 22);
     opacity: 0.9;
     margin: auto;
     padding: 10px;
