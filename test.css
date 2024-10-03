@@ -1,5 +1,5 @@
 body{
-    background-color: red;
+    background-color: aqua;
 }
 
 li{
@@ -8,4 +8,14 @@ li{
 
 ul{
     padding: 0;
+}
+
+.div1 {
+    width: 300px;
+    height: 200px;
+    background-color: rgb(219, 154, 149);
+    opacity: 0.9;
+    margin: auto;
+    padding: 10px;
+    border-radius: 10px;
 }
