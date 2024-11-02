@@ -25,3 +25,25 @@ ul{
     background-attachment: fixed;
 
 }
+
+
+.imgClass1{
+    border: 5px ridge red;
+    border-right-color: blue;
+    border-left-color: blue;
+    border-radius: 5px;
+    display: block;
+    margin: auto;
+}
+
+p{
+    font-size: 25px;
+    font-family: tahoma;
+}
+
+#h2id1{
+    border: 3px dashed  tomato;
+    padding: 5px;
+    text-align: center;
+    background-color: bisque;
+}
