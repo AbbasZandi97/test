@@ -1,3 +1,8 @@
+html{
+    scroll-behavior: smooth;
+}
+
+
 body {
     background-color: rgb(226, 241, 241);
 }
@@ -87,4 +92,28 @@ span{
     padding: 20px;
     margin-top: 10px;
     background-color: beige;
+}
+
+a:link {
+    color: green;
+    background-color: aqua;
+    text-decoration: none;
+}
+
+a:visited {
+    color: pink;
+    background-color: tomato;
+    text-decoration: none;
+}
+
+a:hover{
+    color: red;
+    background-color: blueviolet;
+    text-decoration: underline;
+}
+
+a:active{
+    color: yellow;
+    background-color: teal;
+    text-decoration: underline;
 }
